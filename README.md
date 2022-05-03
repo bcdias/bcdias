@@ -1,8 +1,7 @@
 <h1>Prazer, eu sou Bruno Dias!</h1>
 <div>
   <p>
-    Mestre em Biologia Marinha em trasição de carreira para área de tecnologia, utualmente faço parte do programa Desenvolve, do grupo Boticário, onde sou um dos alunos
-    do urso de desenvolvimento full stack.
+    Mestre em Biologia Marinha em trasição de carreira para área de tecnologia, atualmente faço parte do programa Desenvolve, criado pelo Grupo Boticário, onde sou um dos alunos do curso de desenvolvimento full stack.
   </p>
   <p>
     Possuo experiência com otimização de processos, elaboração e execução de experimentos, análise estatística e elaboração de relatório. Também possuo experiência com         kanban e execução de projetos. 
@@ -13,7 +12,7 @@
  </div>
 
 <div style="display: inline_block"><br> 
-  <h2>Technologias:</h2>
+  <h2>Tecnologias:</h2>
   <ul>
     <li>
       <h3>Principais</h3>
