@@ -1,27 +1,46 @@
-## Hello there!
-
-My name is Bruno Dias, I'm a master in marine biologist and full stack developer in training. I'm currently transitioning to a technology career. 
+<h1>Prazer, eu sou Bruno Dias!</h1>
+<div>
+  <p>
+    Mestre em Biologia Marinha em trasição de carreira para área de tecnologia, utualmente faço parte do programa Desenvolve, do grupo Boticário, onde sou um dos alunos
+    do urso de desenvolvimento full stack.
+  </p>
+  <p>
+    Possuo experiência com otimização de processos, elaboração e execução de experimentos, análise estatística e elaboração de relatório. Também possuo experiência com         kanban e execução de projetos. 
+  </p>
+   <p>
+    Dentro da área de tecnologia já desenvolvi alguns projetos de estudo e estou terminando de elaborar meu primeiro projeto full stack 100% autoral.
+  </p>
+ </div>
 
 <div style="display: inline_block"><br> 
-  Technologies:<br>
-  <img align="center" alt="Bcdias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bcdias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bcdias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bcdias-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Bcdias-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><br>
-  
+  <h2>Technologias:</h2>
+  <ul>
+    <li>
+      <h3>Principais</h3>
+      <img height="20em" src="https://img.shields.io/badge/-JavaScript-yellow"/>
+      <img height="20em" src="https://img.shields.io/badge/-HTML-orange"/>
+      <img height="20em" src="https://img.shields.io/badge/-CSS-blue"/>
+    </li>
+    <li>
+      <h3>Estudando</h3>
+      <img height="20em" src="https://img.shields.io/badge/-PHP-blueviolet"/>
+      <img height="20em" src="https://img.shields.io/badge/-NodeJS-green"/>
+      <img height="20em" src="https://img.shields.io/badge/-MySQL-blue"/>
+      <img height="20em" src="https://img.shields.io/badge/-Express-yellowgreen"/>
+      <img height="20em" src="https://img.shields.io/badge/-React-blue"/>
+    </li>
+  </ul>
 </div>
-<br>
-<div align="left">
-  <a href="https://github.com/rbcdias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcdias&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-
-
-  ##
- Would you like to find me?
-<div> 
+<div>
+  <h2>Melhorando o código</h2>
+  <p>
+    Além das tecnologias citadas acima, também venho estudando sobre SOLID, pardrão MVC e padrão REST.
+  </p>
+ </div>
+ <div>
+  <h2>Contatos</h2>
   <a href = "mailto:dias.desenvolvedor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunodiasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brunodiasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a> <a href="https://curriculo-bcdias.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=vercel& logoColor=white" target="_blank"></a> 
+ </div>
+
+ 
